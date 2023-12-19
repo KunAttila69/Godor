@@ -1,0 +1,14 @@
+C:\Users\kun.attila\source\repos\Godrok\Godrok\bin\Debug\net6.0\Godrok.exe
+C:\Users\kun.attila\source\repos\Godrok\Godrok\bin\Debug\net6.0\Godrok.deps.json
+C:\Users\kun.attila\source\repos\Godrok\Godrok\bin\Debug\net6.0\Godrok.runtimeconfig.json
+C:\Users\kun.attila\source\repos\Godrok\Godrok\bin\Debug\net6.0\Godrok.dll
+C:\Users\kun.attila\source\repos\Godrok\Godrok\bin\Debug\net6.0\Godrok.pdb
+C:\Users\kun.attila\source\repos\Godrok\Godrok\obj\Debug\net6.0\Godrok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kun.attila\source\repos\Godrok\Godrok\obj\Debug\net6.0\Godrok.AssemblyInfoInputs.cache
+C:\Users\kun.attila\source\repos\Godrok\Godrok\obj\Debug\net6.0\Godrok.AssemblyInfo.cs
+C:\Users\kun.attila\source\repos\Godrok\Godrok\obj\Debug\net6.0\Godrok.csproj.CoreCompileInputs.cache
+C:\Users\kun.attila\source\repos\Godrok\Godrok\obj\Debug\net6.0\Godrok.dll
+C:\Users\kun.attila\source\repos\Godrok\Godrok\obj\Debug\net6.0\refint\Godrok.dll
+C:\Users\kun.attila\source\repos\Godrok\Godrok\obj\Debug\net6.0\Godrok.pdb
+C:\Users\kun.attila\source\repos\Godrok\Godrok\obj\Debug\net6.0\Godrok.genruntimeconfig.cache
+C:\Users\kun.attila\source\repos\Godrok\Godrok\obj\Debug\net6.0\ref\Godrok.dll
